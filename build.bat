@@ -1,5 +1,10 @@
-hexo g
+call hexo g
 
-call start hexo s
 
-call start http://127.0.0.1:4000
+
+call hexo s
+
+
+start http://127.0.0.1:4000
+
+ 
