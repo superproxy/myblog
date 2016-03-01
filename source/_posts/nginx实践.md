@@ -4,4 +4,5 @@ tags: [nginx, proxy, load balancer, reverse proxy]
 ---
 源地址[http://superproxy.github.io/docs/nginx/index.html]
 <br/>
+<!--more-->
 <iframe src="/docs/nginx/index.html" frameBorder="0" width="800px" scrolling="yes" height="1000px"></iframe>

@@ -4,4 +4,5 @@ tags: [memcached, dao]
 ---
 源地址[http://superproxy.github.io/docs/memcached/memcached_ipp.html]
 <br/>
+<!--more-->
 <iframe src="/docs/memcached/memcached_ipp.html" frameBorder="0" width="800px" scrolling="yes" height="1000px"></iframe>

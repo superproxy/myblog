@@ -7,6 +7,7 @@ tags: [beanshell, java, 线上分析, 线上调试]
 
 源地址[http://superproxy.github.io/docs/beanshell/BeanShell在网管开发中的应用.pdf]
 
+<!--more-->
 <div>
   <object classid="clsid:CA8A9780-280D-11CF-A24D-444553540000"
            width="950" height="610" border="0"  name="pdf">
