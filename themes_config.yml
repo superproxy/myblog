@@ -1,0 +1,55 @@
+# Header
+menu:
+  Home: .
+  Archives: archives
+  #Categories: categories
+  #Tags: tags
+  #About: about
+  #Varnish: varnish-doc-cn
+
+# Content
+excerpt_link: Read More
+fancybox: true
+
+# Profile
+profile: true # whether to show profile bar
+
+# Sidebar
+sidebar: true # set to false if you don't want a sidebar
+widgets:
+#- recent_posts
+#- category
+#天气
+- weather2345
+  #- tag
+- tagcloud
+  #- archive
+thumbnail: true
+
+# Contacts
+contacts:
+  github: http://superproxy.github.io
+  qq: tencent://message/?uin=593002833
+  ChatRoom: https://gitter.im/superproxy/chatroom
+          #&Site=技术交流&Menu=yes
+# twitter: '#'
+#  facebook: '#'
+#  dribbble: '#'
+  #rss: atom.xml
+  #http://tool.lu/emailimage/
+email: true
+
+# Links
+links:
+  Hexo: http://hexo.io
+  腾讯: http://www.qq.com
+
+# Miscellaneous
+google_analytics: 
+baidu_analytics: true
+cnzz_analytics: 
+favicon: favicon.png
+twitter:
+google_plus:
+fb_admins:
+fb_app_id:

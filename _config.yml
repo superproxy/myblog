@@ -68,9 +68,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://github.com/hexojs/hexo/wiki/Plugins
 ## Themes: https://github.com/hexojs/hexo/wiki/Themes
-#theme: icarus
-theme: kyll
-#theme: hexo-theme-icarus 
+theme: sharpcoder
 
 # Disqus
 

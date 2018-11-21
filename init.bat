@@ -1,5 +1,5 @@
 npm install hexo-cli -g
 
-
-hexo init
-call npm install
+hexo init blog
+cd blog
+npm install

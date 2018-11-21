@@ -1,1 +1,2 @@
-git clone   https://github.com/superproxy/hexo-theme-icarus.git  themes/kyll
+cd blog
+git clone   https://github.com/superproxy/hexo-theme-icarus.git  themes/sharpcoder
