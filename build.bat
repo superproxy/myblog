@@ -1,3 +1,5 @@
+call build_copy_source.bat
+
 cd blog
 call hexo clean
 call hexo g

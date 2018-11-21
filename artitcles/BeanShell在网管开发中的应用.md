@@ -5,7 +5,7 @@ tags: [beanshell, java, 线上分析, 线上调试]
 ###BeanShell
 本文主要介绍了在网管开发中，如何利用BeanShell方便网管开发、问题定位和测试的一些方法和技巧。本文最后介绍如何把BeanShell集成到网管中。
 
-源地址[http://superproxy.github.io/docs/beanshell/BeanShell在网管开发中的应用.pdf]
+源地址[ http://superproxy.github.io/docs/beanshell/BeanShell在网管开发中的应用.pdf ]
 
 <!--more-->
 <div>
